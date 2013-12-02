@@ -1,6 +1,6 @@
 {
 	"manifest_version": 2,
-	"name": "Bitcoin To Buttcoin",
+	"name": "Drone To Butt Robot",
 	"version": "1.0",
 	"description": "Replaces the text 'bitcoin' with 'buttcoin'.",
 	"content_scripts": 
